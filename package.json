@@ -4,7 +4,7 @@
   "dependencies": {
     "jquery": ">= 2.1.0"
   },
-  "main": "lib/evil-blocks.js",
+  "main": "lib/evil-blocks.js",
   "license": "MIT",
   "repository": {
     "type": "git",
